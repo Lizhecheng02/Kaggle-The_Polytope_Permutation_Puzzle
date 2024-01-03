@@ -1,0 +1,198 @@
+device: cuda:0, devices: [0], on_gpu: True
+24
+Itr: 0, Added to OPEN - Min/Max Heur(PathCost): 12.61(1.00)/14.49(1.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 1, Added to OPEN - Min/Max Heur(PathCost): 11.74(2.00)/14.72(2.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 2, Added to OPEN - Min/Max Heur(PathCost): 10.47(3.00)/14.76(3.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 3, Added to OPEN - Min/Max Heur(PathCost): 9.04(4.00)/15.25(4.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 4, Added to OPEN - Min/Max Heur(PathCost): 7.41(5.00)/15.18(5.00) 
+Times - pop: 0.00, expand: 0.03, check: 0.01, heur: 0.01, add: 0.00, itr: 0.05
+
+Itr: 5, Added to OPEN - Min/Max Heur(PathCost): 6.74(6.00)/15.28(6.00) 
+Times - pop: 0.00, expand: 0.07, check: 0.02, heur: 0.03, add: 0.00, itr: 0.13
+
+Itr: 6, Added to OPEN - Min/Max Heur(PathCost): 5.80(7.00)/15.39(7.00) 
+Times - pop: 0.01, expand: 0.53, check: 0.13, heur: 0.16, add: 0.01, itr: 0.84
+
+Itr: 7, Added to OPEN - Min/Max Heur(PathCost): 4.62(8.00)/15.26(8.00) 
+Times - pop: 0.01, expand: 0.44, check: 0.13, heur: 0.16, add: 0.20, itr: 0.94
+
+Itr: 8, Added to OPEN - Min/Max Heur(PathCost): 3.22(9.00)/15.07(9.00) 
+Times - pop: 0.02, expand: 0.39, check: 0.14, heur: 0.16, add: 0.29, itr: 0.99
+
+Itr: 9, Added to OPEN - Min/Max Heur(PathCost): 2.24(10.00)/14.92(10.00) 
+Times - pop: 0.02, expand: 0.49, check: 0.14, heur: 0.17, add: 0.03, itr: 0.85
+
+Itr: 10, Added to OPEN - Min/Max Heur(PathCost): 0.99(11.00)/14.79(11.00) 
+Times - pop: 0.02, expand: 0.56, check: 0.15, heur: 0.17, add: 0.03, itr: 0.93
+
+Itr: 11, Added to OPEN - Min/Max Heur(PathCost): 0.03(12.00)/14.23(12.00) 
+Times - pop: 0.02, expand: 0.63, check: 0.16, heur: 0.17, add: 0.02, itr: 1.01
+
+Itr: 12, Added to OPEN - Min/Max Heur(PathCost): 0.99(13.00)/15.08(11.00) 
+Times - pop: 0.03, expand: 0.18, check: 0.18, heur: 0.17, add: 0.02, itr: 0.58
+
+Times - pop: 0.13, expand: 3.32, check: 1.07, heur: 1.21, add: 0.60, itr: 6.33, num_itrs: 13
+State: 0, SolnCost: 12.00, # Moves: 12, # Nodes Gen: 872,652, Time: 6.37
+Itr: 0, Added to OPEN - Min/Max Heur(PathCost): 13.09(1.00)/13.99(1.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 1, Added to OPEN - Min/Max Heur(PathCost): 12.57(2.00)/14.35(2.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 2, Added to OPEN - Min/Max Heur(PathCost): 11.54(3.00)/14.60(3.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 3, Added to OPEN - Min/Max Heur(PathCost): 9.13(4.00)/14.83(4.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 4, Added to OPEN - Min/Max Heur(PathCost): 7.39(5.00)/15.05(5.00) 
+Times - pop: 0.00, expand: 0.01, check: 0.00, heur: 0.01, add: 0.00, itr: 0.02
+
+Itr: 5, Added to OPEN - Min/Max Heur(PathCost): 6.49(6.00)/15.20(6.00) 
+Times - pop: 0.00, expand: 0.03, check: 0.02, heur: 0.04, add: 1.23, itr: 1.32
+
+Itr: 6, Added to OPEN - Min/Max Heur(PathCost): 4.72(7.00)/15.33(7.00) 
+Times - pop: 0.01, expand: 0.16, check: 0.13, heur: 0.17, add: 0.02, itr: 0.48
+
+Itr: 7, Added to OPEN - Min/Max Heur(PathCost): 3.88(8.00)/15.15(8.00) 
+Times - pop: 0.01, expand: 1.79, check: 0.13, heur: 0.16, add: 0.02, itr: 2.11
+
+Itr: 8, Added to OPEN - Min/Max Heur(PathCost): 3.25(9.00)/15.15(9.00) 
+Times - pop: 0.02, expand: 0.17, check: 0.13, heur: 0.17, add: 0.03, itr: 0.52
+
+Itr: 9, Added to OPEN - Min/Max Heur(PathCost): 2.12(10.00)/14.99(10.00) 
+Times - pop: 0.02, expand: 1.93, check: 0.13, heur: 0.16, add: 0.03, itr: 2.26
+
+Itr: 10, Added to OPEN - Min/Max Heur(PathCost): 0.99(11.00)/15.06(11.00) 
+Times - pop: 0.02, expand: 0.17, check: 0.15, heur: 0.17, add: 0.03, itr: 0.53
+
+Itr: 11, Added to OPEN - Min/Max Heur(PathCost): 0.03(12.00)/14.64(12.00) 
+Times - pop: 0.02, expand: 2.08, check: 0.16, heur: 0.16, add: 0.02, itr: 2.44
+
+Itr: 12, Added to OPEN - Min/Max Heur(PathCost): 0.99(13.00)/14.86(11.00) 
+Times - pop: 0.03, expand: 0.17, check: 0.18, heur: 0.17, add: 0.02, itr: 0.58
+
+Times - pop: 0.13, expand: 6.51, check: 1.03, heur: 1.20, add: 1.40, itr: 10.26, num_itrs: 13
+State: 1, SolnCost: 12.00, # Moves: 12, # Nodes Gen: 872,652, Time: 10.33
+Itr: 0, Added to OPEN - Min/Max Heur(PathCost): 12.39(1.00)/14.35(1.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 1, Added to OPEN - Min/Max Heur(PathCost): 8.83(2.00)/14.64(2.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 2, Added to OPEN - Min/Max Heur(PathCost): 8.77(3.00)/14.80(3.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 3, Added to OPEN - Min/Max Heur(PathCost): 7.96(4.00)/15.18(4.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 4, Added to OPEN - Min/Max Heur(PathCost): 5.83(5.00)/15.21(5.00) 
+Times - pop: 0.00, expand: 0.01, check: 0.00, heur: 0.01, add: 0.00, itr: 0.02
+
+Itr: 5, Added to OPEN - Min/Max Heur(PathCost): 4.88(6.00)/15.27(6.00) 
+Times - pop: 0.00, expand: 0.03, check: 0.02, heur: 0.04, add: 0.00, itr: 0.09
+
+Itr: 6, Added to OPEN - Min/Max Heur(PathCost): 4.37(7.00)/15.39(7.00) 
+Times - pop: 0.01, expand: 4.65, check: 0.13, heur: 0.16, add: 0.02, itr: 4.97
+
+Itr: 7, Added to OPEN - Min/Max Heur(PathCost): 3.10(8.00)/15.30(8.00) 
+Times - pop: 0.02, expand: 0.16, check: 0.14, heur: 0.16, add: 0.02, itr: 0.49
+
+Itr: 8, Added to OPEN - Min/Max Heur(PathCost): 2.18(9.00)/15.12(9.00) 
+Times - pop: 0.02, expand: 1.90, check: 0.14, heur: 0.16, add: 0.03, itr: 2.25
+
+Itr: 9, Added to OPEN - Min/Max Heur(PathCost): 0.99(10.00)/14.72(10.00) 
+Times - pop: 0.02, expand: 0.17, check: 0.15, heur: 0.18, add: 0.03, itr: 0.54
+
+Itr: 10, Added to OPEN - Min/Max Heur(PathCost): 0.03(11.00)/14.86(11.00) 
+Times - pop: 0.02, expand: 2.05, check: 0.15, heur: 0.16, add: 0.03, itr: 2.41
+
+Itr: 11, Added to OPEN - Min/Max Heur(PathCost): 0.99(12.00)/14.56(11.00) 
+Times - pop: 0.02, expand: 0.17, check: 0.17, heur: 0.17, add: 0.02, itr: 0.56
+
+Times - pop: 0.11, expand: 9.14, check: 0.91, heur: 1.03, add: 0.15, itr: 11.34, num_itrs: 12
+State: 2, SolnCost: 11.00, # Moves: 11, # Nodes Gen: 752,652, Time: 11.41
+Itr: 0, Added to OPEN - Min/Max Heur(PathCost): 9.41(1.00)/13.50(1.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 1, Added to OPEN - Min/Max Heur(PathCost): 8.13(2.00)/14.15(2.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 2, Added to OPEN - Min/Max Heur(PathCost): 7.16(3.00)/14.81(3.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 3, Added to OPEN - Min/Max Heur(PathCost): 6.56(4.00)/15.03(4.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 4, Added to OPEN - Min/Max Heur(PathCost): 5.32(5.00)/15.19(5.00) 
+Times - pop: 0.00, expand: 0.01, check: 0.00, heur: 0.01, add: 0.00, itr: 0.02
+
+Itr: 5, Added to OPEN - Min/Max Heur(PathCost): 4.75(6.00)/15.27(6.00) 
+Times - pop: 0.00, expand: 0.03, check: 0.02, heur: 0.04, add: 0.00, itr: 0.10
+
+Itr: 6, Added to OPEN - Min/Max Heur(PathCost): 3.88(7.00)/15.39(7.00) 
+Times - pop: 0.01, expand: 4.55, check: 0.13, heur: 0.16, add: 0.02, itr: 4.87
+
+Itr: 7, Added to OPEN - Min/Max Heur(PathCost): 3.03(8.00)/15.20(8.00) 
+Times - pop: 0.01, expand: 1.62, check: 0.14, heur: 0.16, add: 0.02, itr: 1.96
+
+Itr: 8, Added to OPEN - Min/Max Heur(PathCost): 2.01(9.00)/15.08(9.00) 
+Times - pop: 0.02, expand: 0.17, check: 0.14, heur: 0.17, add: 0.03, itr: 0.53
+
+Itr: 9, Added to OPEN - Min/Max Heur(PathCost): 0.99(10.00)/14.95(10.00) 
+Times - pop: 0.02, expand: 1.74, check: 0.15, heur: 0.16, add: 0.03, itr: 2.10
+
+Itr: 10, Added to OPEN - Min/Max Heur(PathCost): 0.03(11.00)/14.73(11.00) 
+Times - pop: 0.02, expand: 0.17, check: 0.16, heur: 0.17, add: 0.03, itr: 0.54
+
+Itr: 11, Added to OPEN - Min/Max Heur(PathCost): 0.99(12.00)/14.78(12.00) 
+Times - pop: 0.02, expand: 1.89, check: 0.17, heur: 0.16, add: 0.02, itr: 2.26
+
+Times - pop: 0.10, expand: 10.18, check: 0.93, heur: 1.03, add: 0.15, itr: 12.38, num_itrs: 12
+State: 3, SolnCost: 11.00, # Moves: 11, # Nodes Gen: 752,652, Time: 12.44
+Itr: 0, Added to OPEN - Min/Max Heur(PathCost): 11.77(1.00)/14.05(1.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 1, Added to OPEN - Min/Max Heur(PathCost): 10.20(2.00)/14.35(2.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 2, Added to OPEN - Min/Max Heur(PathCost): 8.69(3.00)/14.60(3.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 3, Added to OPEN - Min/Max Heur(PathCost): 7.47(4.00)/14.88(4.00) 
+Times - pop: 0.00, expand: 0.00, check: 0.00, heur: 0.00, add: 0.00, itr: 0.00
+
+Itr: 4, Added to OPEN - Min/Max Heur(PathCost): 6.30(5.00)/15.09(5.00) 
+Times - pop: 0.00, expand: 0.01, check: 0.00, heur: 0.01, add: 0.00, itr: 0.02
+
+Itr: 5, Added to OPEN - Min/Max Heur(PathCost): 4.90(6.00)/15.19(6.00) 
+Times - pop: 0.00, expand: 0.03, check: 0.02, heur: 0.04, add: 0.00, itr: 0.10
+
+Itr: 6, Added to OPEN - Min/Max Heur(PathCost): 3.84(7.00)/15.29(7.00) 
+Times - pop: 0.01, expand: 0.15, check: 0.13, heur: 0.17, add: 0.01, itr: 0.48
+
+Itr: 7, Added to OPEN - Min/Max Heur(PathCost): 3.10(8.00)/15.23(8.00) 
+Times - pop: 0.01, expand: 4.20, check: 0.13, heur: 0.17, add: 0.02, itr: 4.53
+
+Itr: 8, Added to OPEN - Min/Max Heur(PathCost): 2.08(9.00)/15.13(9.00) 
+Times - pop: 0.02, expand: 0.17, check: 0.14, heur: 0.18, add: 0.02, itr: 0.53
+
+Itr: 9, Added to OPEN - Min/Max Heur(PathCost): 0.99(10.00)/15.13(10.00) 
+Times - pop: 0.02, expand: 1.89, check: 0.15, heur: 0.16, add: 0.03, itr: 2.25
+
+Itr: 10, Added to OPEN - Min/Max Heur(PathCost): 0.03(11.00)/14.98(11.00) 
+Times - pop: 0.02, expand: 0.18, check: 0.15, heur: 0.17, add: 0.03, itr: 0.55
+
+Itr: 11, Added to OPEN - Min/Max Heur(PathCost): 0.99(12.00)/14.15(12.00) 
+Times - pop: 0.02, expand: 2.05, check: 0.17, heur: 0.16, add: 0.02, itr: 2.42
+
+Times - pop: 0.10, expand: 8.68, check: 0.89, heur: 1.06, add: 0.15, itr: 10.88, num_itrs: 12
+State: 4, SolnCost: 11.00, # Moves: 11, # Nodes Gen: 752,652, Time: 10.94

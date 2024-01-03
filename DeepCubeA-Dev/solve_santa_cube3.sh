@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python search_methods/astar.py --states data/santa/test/data_0.pkl --model saved_models/santa/current/ --env cube3 --weight 0.6 --batch_size 10000 --results_dir results/santa/ --language python --nnet_batch_size 10000
