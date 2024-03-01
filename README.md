@@ -34,6 +34,6 @@ In this competition, you will solve cube-like puzzles in the fewest moves, but i
 
 - Change the network's input from a single initial state to two types of states: the initial state and the target state. This was originally intended to break down the process of solving the Rubik's Cube into many small steps and then continuously optimize these small steps. However, this was ultimately not successfully implemented.
 
-### Conclusion
+#### Conclusion
 
 This competition has almost no relation to deep learning; the real solution is related to group theory in mathematics. The winning solution codes are almost all implemented in Rust or C.
